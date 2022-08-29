@@ -1,4 +1,4 @@
-  #   web3 Blockchain: Create my own crypto token called soul coin on the ICP and build a marketplace website 
+  #   web3 Blockchain: Create my own crypto token called soul coin on the ICP and build a marketplace website using motoko
   I followed a online web development bootcamp taught by Angela Yu to build this project. This proejct was inspired by Curve finance. Curve is what's called an automated market maker. It's really popular and used a lot for people to exchange stable coins and used heavily by people within the sort of web3 blockchain community. 
 
   the screenshot of the project is shown below. the web can:
